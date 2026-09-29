@@ -1,6 +1,6 @@
 # ProteinFold-2D: Computational Protein Folding Simulator
 
-> **B.Tech Computational Biology Mini-Project**  
+
 > An interactive full-stack research studio for simulating protein folding using the **2D Hydrophobic–Polar (HP) Lattice Model** and **Simulated Annealing** optimization.
 
 ---
